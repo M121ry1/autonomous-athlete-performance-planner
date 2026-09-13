@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2026-09-08",
+        "mood": 88,
+        "energy": 84,
+        "stress": 30,
+        "motivation": 90,
+        "availability": "full"
+    },
+    {
+        "date": "2026-09-09",
+        "mood": 82,
+        "energy": 78,
+        "stress": 34,
+        "motivation": 85,
+        "availability": "full"
+    },
+    {
+        "date": "2026-09-10",
+        "mood": 77,
+        "energy": 72,
+        "stress": 40,
+        "motivation": 80,
+        "availability": "full"
+    },
+    {
+        "date": "2026-09-11",
+        "mood": 68,
+        "energy": 63,
+        "stress": 52,
+        "motivation": 70,
+        "availability": "limited"
+    },
+    {
+        "date": "2026-09-12",
+        "mood": 58,
+        "energy": 55,
+        "stress": 68,
+        "motivation": 62,
+        "availability": "limited"
+    }
+]

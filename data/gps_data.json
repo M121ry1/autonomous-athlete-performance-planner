@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2026-09-08",
+        "distance_km": 7.2,
+        "high_speed_distance_km": 1.1,
+        "sprint_distance_km": 0.25,
+        "accelerations": 35,
+        "decelerations": 29,
+        "session_duration_min": 60,
+        "training_load": 520
+    },
+    {
+        "date": "2026-09-09",
+        "distance_km": 8.1,
+        "high_speed_distance_km": 1.4,
+        "sprint_distance_km": 0.34,
+        "accelerations": 42,
+        "decelerations": 37,
+        "session_duration_min": 65,
+        "training_load": 610
+    },
+    {
+        "date": "2026-09-10",
+        "distance_km": 6.5,
+        "high_speed_distance_km": 0.8,
+        "sprint_distance_km": 0.18,
+        "accelerations": 29,
+        "decelerations": 25,
+        "session_duration_min": 50,
+        "training_load": 430
+    },
+    {
+        "date": "2026-09-11",
+        "distance_km": 8.7,
+        "high_speed_distance_km": 1.6,
+        "sprint_distance_km": 0.42,
+        "accelerations": 48,
+        "decelerations": 41,
+        "session_duration_min": 70,
+        "training_load": 680
+    },
+    {
+        "date": "2026-09-12",
+        "distance_km": 7.8,
+        "high_speed_distance_km": 1.2,
+        "sprint_distance_km": 0.32,
+        "accelerations": 38,
+        "decelerations": 31,
+        "session_duration_min": 60,
+        "training_load": 590
+    }
+]

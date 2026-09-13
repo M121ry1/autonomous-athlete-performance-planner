@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2026-09-15",
+        "opponent": "Team B",
+        "competition": "League",
+        "importance": "high",
+        "home_away": "home"
+    },
+    {
+        "date": "2026-09-19",
+        "opponent": "Team C",
+        "competition": "League",
+        "importance": "medium",
+        "home_away": "away"
+    },
+    {
+        "date": "2026-09-24",
+        "opponent": "Team D",
+        "competition": "Cup",
+        "importance": "high",
+        "home_away": "home"
+    }
+]

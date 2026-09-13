@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2026-09-08",
+        "sleep_hours": 8.1,
+        "sleep_quality": 86,
+        "energy": 84,
+        "muscle_soreness": 25,
+        "stress": 30,
+        "recovery_score": 84
+    },
+    {
+        "date": "2026-09-09",
+        "sleep_hours": 7.7,
+        "sleep_quality": 80,
+        "energy": 78,
+        "muscle_soreness": 31,
+        "stress": 34,
+        "recovery_score": 78
+    },
+    {
+        "date": "2026-09-10",
+        "sleep_hours": 7.4,
+        "sleep_quality": 75,
+        "energy": 72,
+        "muscle_soreness": 38,
+        "stress": 40,
+        "recovery_score": 72
+    },
+    {
+        "date": "2026-09-11",
+        "sleep_hours": 6.8,
+        "sleep_quality": 66,
+        "energy": 63,
+        "muscle_soreness": 49,
+        "stress": 52,
+        "recovery_score": 63
+    },
+    {
+        "date": "2026-09-12",
+        "sleep_hours": 6.2,
+        "sleep_quality": 58,
+        "energy": 55,
+        "muscle_soreness": 62,
+        "stress": 68,
+        "recovery_score": 52
+    }
+]
